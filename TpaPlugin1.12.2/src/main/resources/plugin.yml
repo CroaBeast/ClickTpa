@@ -1,0 +1,31 @@
+name: ClickTpa
+version: 1.5
+main: me.jklmao.main.Main
+commands:
+    tpa:
+        usage: /<command>
+        aliases: [teleport]
+    tpahere:
+        usage: /<command>
+    tpaccept:
+        usage: /<command>
+        aliases: [tpyes]
+    tpadeny:
+        usage: /<command>
+        aliases: [tpdeny, tpno]
+    tpo:
+        usage: /<command>
+        alises: [tp]
+    tpohere:
+        usage: /<command>
+        aliases: [s, tphere]
+    tptoggle:
+        usage: /<command>
+    tpacancel:
+        usage: /<command>
+        aliases: [tpcancel]
+    clicktparl:
+        usage: /<command>  
+        aliases: [ctparl]  
+        
+   
